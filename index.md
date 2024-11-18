@@ -7,8 +7,8 @@ layout: default
 UCSD Email: [anyin@ucsd.edu](mailto:anyin@ucsd.edu)
 
 ## Section and Mentor
-- Section: [Your Section]
-- Mentor: [Your Mentor's Name]
+- Section: A06
+- Mentor: Utkrisht Rajkumar, Thiago Mosqueiro
 
 ## Assignment Prompts
 
